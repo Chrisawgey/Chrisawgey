@@ -1,6 +1,6 @@
 # Hi there, I'm Chris! 👋🏽
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Chrisawgey&show_icons=true&theme=codeSTACKr" />
+
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisawgey&layout=compact" />
 
