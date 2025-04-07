@@ -7,8 +7,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisawgey&layout=compact" />
-  <img width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisawgey&theme=transparent" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisawgey&layout=compact" />
+  <img width="49%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisawgey&theme=transparent" />
 </div>
 
 ## 💻 Tech Stack
@@ -45,8 +45,8 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-site.com)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisvpopoca/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://christopherportfolio-phi.vercel.app/)
   
 </div>
 
