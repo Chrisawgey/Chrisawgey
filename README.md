@@ -1,11 +1,11 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00c2cb&height=200&section=header&text=Christopher%20Vargas&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Christopher%20Vargas&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Christopher!;Full-Stack+Developer+%F0%9F%92%BB;React+%2B+Next.js+Enthusiast!;Always+Learning+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Christopher!;Full-Stack+Developer+%F0%9F%92%BB;React+%2B+Next.js+Enthusiast!" />
 </p>
 
 ---
@@ -35,9 +35,11 @@
 
 ---
 
-## 🎮 GitHub Contribution Snake
+## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://github.com/Chrisawgey/Chrisawgey/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/Chrisawgey/Chrisawgey/blob/output/github-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -59,5 +61,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2cb,100:6e40c9&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=footer"/>
 </p>
