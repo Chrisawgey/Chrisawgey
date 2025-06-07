@@ -57,5 +57,5 @@
 ---
 
 <p align="center">
-  <i style="color:#00FF00">Thanks for visiting my terminal... I mean profile.</i>
+  <i style="color:#00FF00">Thanks for visiting my profile.</i>
 </p>
