@@ -1,18 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00c2cb&height=200&section=header&text=Chris%20Popoca&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Christopher%20Vargas&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <div align="center">
 
-### 👋🏽 Hey there, I'm **Chris** — a Full-Stack Developer passionate about building **modern web experiences**
-
-<a href="https://www.linkedin.com/in/chrisvpopoca/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://christopherportfolio-phi.vercel.app/">
-  <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
-</a>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Christopher!;Full-Stack+Developer+%F0%9F%92%BB;React+%2B+Next.js+Enthusiast!;Always+Learning+%E2%9C%A8)
 
 </div>
 
@@ -20,47 +13,64 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisawgey&layout=compact&theme=tokyonight" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisawgey&theme=github_dark" />
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisawgey&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisawgey&theme=github_dark" />
+</div>
 
 ---
 
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,next,nodejs,tailwind,html,css" />
-</p>
-
----
-
-## 🚀 Tools & Deployment
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,gcp,vscode,linux,git" />
-</p>
-
----
-
-## 🧠 Currently Working On
-
-- ⚛️ Building slick web apps with **React** + **Next.js**
-- ☁️ Getting deeper into **Cloud Engineering**
-- 🧩 Experimenting with modern **JS frameworks**
-
----
-
-## 🤝 Let's Collaborate
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EF7FF&center=true&vCenter=true&width=435&lines=Open+to+collaborations;Always+learning+new+things;Let's+build+something+great!" />
-</p>
+## 💻 Tech Stack
 
 <div align="center">
-  <i>Thanks for stopping by! Feel free to explore my repos or reach out!</i>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Deployment & Tools
+
+<div align="center">
+
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🔍 Currently Working On
+
+- ⚛ Building modern web apps with **React** and **Next.js**
+- ☁ Exploring cloud tools & architecture
+- 🧪 Playing with new JavaScript frameworks
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisvpopoca/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://christopherportfolio-phi.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+  <i>Thanks for visiting my profile! Feel free to check out my work and reach out 🤝</i>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2cb,100:6e40c9&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=footer"/>
 </p>
